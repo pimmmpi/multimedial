@@ -1,4 +1,4 @@
-# multimedial 
+# <span style="color: #5D8C6A;">multimedial</span>
 exploración creativa de arte, tecnología y medios digitales interactivos.
 Ejercicio 1, semana 1:
 ```
@@ -26,8 +26,8 @@ body{
   background-color: white;
   /* Define que el fondo de toda la página sea blanco */
 
-  color: black;
-  /* Define que el color del texto sea negro */
+  color: #F4A9C0;
+  /* Define que el color del texto sea rosa corsage */
 
   margin: 0;
   /* Elimina los márgenes que los navegadores agregan por defecto */
@@ -72,3 +72,6 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 
 ```
+<img src="https://github.com/pimmmpi/multimedial/blob/main/w/img/4F84E4DC-F15A-4217-B97F-EEBF200B680F.JPG?raw=true" alt="Imagen" width="500">
+<img src="https://github.com/pimmmpi/multimedial/blob/main/w/img/70FE0886-30AB-4BE4-A8B7-4B2870BD9AF8.JPG?raw=true" alt="Imagen 2" width="500">
+<img src="https://github.com/pimmmpi/multimedial/blob/main/w/img/7EE8642D-DE4C-4D79-8FBD-491C6F503377.JPG?raw=true" alt="Imagen 3" width="500">
