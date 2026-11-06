@@ -1,4 +1,4 @@
-# <span style="color: #5D8C6A;">multimedial</span>
+<span style="color: #5D8C6A;">multimedial</span>
 exploración creativa de arte, tecnología y medios digitales interactivos.
 Ejercicio 1, semana 1:
 ```
