@@ -14,43 +14,47 @@ exploración creativa de arte, tecnología y medios digitales interactivos.
 <meta charset="UTF-8">
 <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
 
-<title>Multimedial</title>
+<title> multimedial de pimpi</title>
 <!-- Título de la página que aparece en la pestaña del navegador -->
 
 <style>
 /* Aquí comienza la sección de estilos CSS que define la apariencia visual */
 
-body{
-/* "body" se refiere a todo el contenido visible de la página */
+body {
+            font-family: Arial, sans-serif;
+            background-color: #093109;
+            color: beige;
+            margin: 0;
+        }
+ /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            margin: auto;
+        }
 
-  background-color: white;
-  /* Define que el fondo de toda la página sea blanco */
+        /* Sección o bloque */
+        .bloque {
+            background-color: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 10px;
+        }
 
-  color: #F4A9C0;
-  /* Define que el color del texto sea rosa corsage */
+        /* Imagen */
+        .bloque img {
+            width: 50%;
+            height: auto;
+        }
 
-  margin: 0;
-  /* Elimina los márgenes que los navegadores agregan por defecto */
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 10px;
+        }
 
-  height: 100vh;
-  /* Hace que el alto del cuerpo sea igual al 100% de la altura de la pantalla */
-
-  display: flex;
-  /* Activa el sistema Flexbox para organizar y centrar elementos */
-
-  justify-content: center;
-  /* Centra el contenido horizontalmente */
-
-  align-items: center;
-  /* Centra el contenido verticalmente */
-
-  font-family: Arial, sans-serif;
-  /* Define la tipografía del texto */
-
-  font-size: 60px;
-  /* Define el tamaño grande del texto */
-
-}
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        }
 /* Fin de las reglas de estilo del body */
 
 </style>
@@ -61,8 +65,51 @@ body{
 
 <body>
 <!-- Inicio del contenido visible de la página -->
+  <div class="contenedor">
+<h1>Arte daniel</h1>
+        <!-- BLOQUE 1 -->
+        <div class="bloque"> 
+           <img src="img/tetrapack.jpg" alt="Ir a obra" width="550">
 
-MULTIMEDIAL
+            <img src="imagen1.jpg" alt="Impresión de matriz de tetrapack de 80 cm x 52 cm">
+            <h2>tetrapack</h2>
+            <p>
+                Este es un texto de ejemplo. Aquí puedes escribir contenido descriptivo,
+                reflexivo o informativo sobre la imagen.
+            </p>
+        </div>
+
+        <!-- BLOQUE 2 -->
+        <div class="bloque">
+            <img src="img/empalada.jpg" alt="">
+            <h2>empalada</h2>
+            <p>
+               Calcografía de la serie PILUCHAS. 
+            </p>
+        </div>
+
+        <!-- BLOQUE 3 -->
+        <div class="bloque">
+            <img src="img/ciano_piedad.png" alt="Descripción de la imagen">
+            <h2>Piedad</h2>
+            <p>
+                Cianotipia de una fotografía en negativo de la escultura de la Piedad de Miguel Ángel.
+            </p>
+        </div>
+
+    </div>
+
+
+
+
+
+<br><br>
+
+<a href="obra.html">Obra</a><br>
+<a href="obra.html">
+</a>
+<a href="contacto.html">Contacto</a>
+
 <!-- Texto que aparece en el centro de la pantalla -->
 
 </body>
