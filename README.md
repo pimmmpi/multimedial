@@ -126,6 +126,7 @@ body {
 ##Ejercicios con TouchDesigner:
 #### [Lsystem](https://drive.google.com/drive/folders/1Ns24h_NUCZrdHIVNbHszDmQVmj3bHTgU)
 <img src="https://github.com/pimmmpi/multimedial/blob/main/w/img/LSystem.gif" /> 
+#### [Point](https://drive.google.com/drive/folders/10UHrutFXohhEucAV7W8c6LqPs9YsBmLk)
 <img src="https://github.com/pimmmpi/multimedial/blob/main/w/img/POINT.gif" /> 
 
 
